@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauldone
 - 👀 I’m interested in Lambda functions, python, AWS Cloud services, DevOps
-- 🌱 I’m currently learning Lambda, Lightning Networks (Crypto
+- 🌱 I’m currently learning Lambda, Lightning Networks (Crypto)
 - 💞️ I’m looking to collaborate on Lambda websites using python and DynamoDB
 - 📫 How to reach me www.pauldone.com
 
